@@ -1,12 +1,12 @@
-html{
-    scroll-behavior: smooth;
+html {
+  scroll-behavior: smooth;
 }
 
 .py-24 {
-    padding-top: 3rem;
-    padding-bottom: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 6rem;
 }
 
-.ubuntu-font{
-    font-family: ubuntu;
+.ubuntu-font {
+  font-family: ubuntu;
 }
